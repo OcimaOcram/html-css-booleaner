@@ -1,0 +1,42 @@
+.intro {
+    background-image: url(img/pattern.png);
+}
+#logo {
+    height: 50px;
+    margin-top: 100px;
+}
+#scritto-da {
+    color: grey;
+}
+
+#nome {
+    color: blue;
+}
+.tim {
+    width: 49%;
+    height: 300px;
+}
+.scritte-piccole {
+    font-size: 10px;
+    font-style: italic;
+}
+.lorem {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.yellow {
+    background-color: yellow;
+}
+th {
+    background-color: aqua;
+    color: white;
+}
+.riga-azzurra {
+    background-color: aquamarine;
+}
+table {
+    border-collapse: collapse;
+}
+.width50 {
+    width: 50%;
+}
